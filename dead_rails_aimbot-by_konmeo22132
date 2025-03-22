@@ -6,7 +6,7 @@ local StarterGui = game:GetService("StarterGui")
 local camera = workspace.CurrentCamera
 
 StarterGui:SetCore("SendNotification", {
-    Title = "Tsr:konmeo | mb bank: 0334182566 - pls donate", 
+    Title = "SKID by konmeo22132 (100% riel)", 
     Text = "on Roblox",
     Duration = 3
 })
